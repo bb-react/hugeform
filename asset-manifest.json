@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hugeform/static/css/main.077f011e.chunk.css",
+    "main.js": "/hugeform/static/js/main.0a225096.chunk.js",
+    "main.js.map": "/hugeform/static/js/main.0a225096.chunk.js.map",
+    "runtime-main.js": "/hugeform/static/js/runtime-main.2a539243.js",
+    "runtime-main.js.map": "/hugeform/static/js/runtime-main.2a539243.js.map",
+    "static/js/2.4ac9df3f.chunk.js": "/hugeform/static/js/2.4ac9df3f.chunk.js",
+    "static/js/2.4ac9df3f.chunk.js.map": "/hugeform/static/js/2.4ac9df3f.chunk.js.map",
+    "index.html": "/hugeform/index.html",
+    "precache-manifest.94847912eb5d84ac72727cb79101c67e.js": "/hugeform/precache-manifest.94847912eb5d84ac72727cb79101c67e.js",
+    "service-worker.js": "/hugeform/service-worker.js",
+    "static/css/main.077f011e.chunk.css.map": "/hugeform/static/css/main.077f011e.chunk.css.map",
+    "static/js/2.4ac9df3f.chunk.js.LICENSE": "/hugeform/static/js/2.4ac9df3f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a539243.js",
+    "static/js/2.4ac9df3f.chunk.js",
+    "static/css/main.077f011e.chunk.css",
+    "static/js/main.0a225096.chunk.js"
+  ]
+}
